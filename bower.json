@@ -1,0 +1,28 @@
+{
+  "name": "angular-httpi",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bennadel/httpi",
+  "description": "Lightweight AngularJS $http Wrapper For URL Interpolation",
+  "main": "build/httpi.min.js",
+  "keywords": [
+    "angular",
+    "$http",
+    "wrapper",
+    "service",
+    "URL-interpolation"
+  ],
+  "authors": [
+    "Ben Nadel"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
